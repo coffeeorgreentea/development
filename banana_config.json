@@ -1,0 +1,8 @@
+{
+  "name": "Development",
+  "category": "Uncategorized",
+  "example_input": {
+    "code": "x = 5\ny = 2\nresponse = x * y"
+  },
+  "example_output": 10
+}
