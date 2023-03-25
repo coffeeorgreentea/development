@@ -1,3 +1,5 @@
-x = 5
-y = 2
-response = x * y
+import time
+import os
+
+response = time.time()
+print('POST', response)

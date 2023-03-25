@@ -7,7 +7,7 @@ It can be used as an alternative to having full E2E development locally (if you 
 
 # Quickstart
 
-Deploy this model via the one-click template [here]((https://app.banana.dev/templates/djt/development).
+Deploy this model via the one-click template [here](https://app.banana.dev/templates/djt/development).
 
 You will also find the model inputs and outputs to help get you going.
 

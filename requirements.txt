@@ -1,4 +1,7 @@
 sanic==22.6.2
 torch
-diffusers[torch]
-git+https://github.com/huggingface/transformers.git
+transformers==4.27.1
+boto3
+diffusers==0.14.0
+transformers==4.27.1
+triton==2.0.0.post1
