@@ -8,5 +8,4 @@ triton==2.0.0.post1
 torchvision
 git+https://github.com/facebookresearch/segment-anything.git
 opencv-python
-pycocotools
 matplotlib
