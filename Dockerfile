@@ -2,7 +2,7 @@ FROM pytorch/pytorch:1.11.0-cuda11.3-cudnn8-runtime
 
 WORKDIR /
 
-RUN apt-get update && apt-get install -y git libgl1
+RUN apt-get update && apt-get install -y git libgl1 libglib2.0-0
 
 RUN pip3 install --upgrade pip
 
